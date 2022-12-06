@@ -564,6 +564,22 @@
 
 
 }    
+@media screen and (min-width: 1920px) 
+{
+    .shortly-brand-infor-st
+    {
+        max-width: 520px;
+    }
+    .shortly-brand-infor-nd
+    {
+        max-width: 520px;
+    }
+    .shortly-brand-infor-rd
+    {
+        max-width: 520px;
+    }
+    
+}
 
 
 
